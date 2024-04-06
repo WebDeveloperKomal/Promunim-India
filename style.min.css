@@ -1431,7 +1431,7 @@ p {
 
 strong {
     font-weight: 600;
-    color:#39b54a;
+    color: #39b54a;
 }
 
 a:not(.btn):not(.badge):hover,
@@ -3200,8 +3200,7 @@ a.btn:not([href]):not([tabindex]) {
     padding: 12px 18px;
     position: relative;
     text-transform: uppercase;
-    background-color: #3BB161
-    ;
+    background-color: #3BB161;
     border-color: #3BB161;
     border-width: 1px;
     border-style: solid;

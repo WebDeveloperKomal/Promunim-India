@@ -374,7 +374,8 @@ body {
 
     section#page-content.second_s_bar {
         padding-top: 80px;
-        padding-bottom: 80px
+        padding-bottom: 80px;
+        margin-top: 13px;
     }
 }
 
@@ -1926,7 +1927,7 @@ ul.rel_doc_req li span.badge {
 }
 
 .second_s_bar .col-lg-9.page_content strong {
-    color: #1f1f1f
+    color: #3bb161;
 }
 
 .list-icon.list-icon-caret li:before {
